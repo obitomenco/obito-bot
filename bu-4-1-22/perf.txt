@@ -1,0 +1,46 @@
+8305981
+8305982
+8305984
+8305985
+8315482
+
+untouched 
+	4:26 - 4.39 OK (13 min)
+	4.41 - 4.59 OK (18 min)
+	5.00 - 5.21 OK (20 min)
+	5.22 - 5.57 OK (35 min)
+
+	15 min - KO
+
+
+8 per 10 min - 3
+18 per 10 min - witch & draculaW
+
+
+
+30 min - zero pow
+
+gamon (50) +20
+draculaw (150) +39
+wish +39
+hajeb +20
+draculad +20
+
+30 min - full pow
+
+gamon (50) -50
+draculaw (150) -54
+wish (100) -94
+hajeb (150) -62
+draculad (50) -45
+
+************
+* IMPORTANT
+************
+
+0.5 hp / min
+ou
+1 hp / min (option regen)
+
+3 sec entre lancement et explosion)
+

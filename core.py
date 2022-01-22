@@ -77,7 +77,7 @@ def findWin(w, close=False, fg=True):
 def startBrowser():
     global secretshit
 
-    print("[{}] start new - wrong windows".format(time.strftime('%d/%m %X')))
+    print("[{}] start new".format(time.strftime('%d/%m %X')))
     subprocess.Popen(["taskkill","/f","/im","chrome.exe"],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
     sl(2)
     subprocess.Popen([NAVI,"app.bombcrypto.io"],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
